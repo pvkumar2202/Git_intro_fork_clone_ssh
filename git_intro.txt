@@ -1,2 +1,3 @@
 This is my first GIT project ! and my mentor is Madhu ... 
 so I will be learning the GIT now.
+Many thanks for taking us through this session :)
