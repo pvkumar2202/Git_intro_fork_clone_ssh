@@ -1,3 +1,4 @@
 This is my first GIT project ! and my mentor is Madhu ... 
 so I will be learning the GIT now.
 Many thanks for taking us through this session :)
+Today is the second session going through GIT merge with Conflicts Issue, the changes are made by Kumar.
